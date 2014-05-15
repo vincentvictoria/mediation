@@ -1,5 +1,5 @@
 {
-"mmedia":{"p":2,"w":1},
+"mmedia":{"p":1,"w":1},
 "admob":{"p":1,"w":1},
 "chartboost":{"p":3,"w":1},
 }
