@@ -1,14 +1,6 @@
 <HouseBoost>
 	<Limit day="1" week="5"/>
 	<Apps>
-		<App id="soaringbird" scheme="soaringbird1116" weight="2" url="market://details?id=air.A0814.A07.SoaringBird">
-			<Limit day="1" week="3"/>
-			<Images>
-				<Image w="320" h="480" url="http://www.vincentvictoria.com/wp-content/files/houseboost/soaringbird/Soaring_Bird_e_320_480.jpg" />
-				<Image w="512" h="768" url="http://www.vincentvictoria.com/wp-content/files/houseboost/soaringbird/Soaring_Bird_e_512_768.jpg" />
-				<Image w="640" h="960" url="http://www.vincentvictoria.com/wp-content/files/houseboost/soaringbird/Soaring_Bird_e_640_960.jpg" />
-			</Images>
-		</App>
 		<App id="jewelnext" scheme="jewelnext1116" weight="1" url="market://details?id=air.A0814.A00.JewelNext">
 			<Limit day="1" week="3"/>
 			<Images>
