@@ -1,4 +1,3 @@
 {
-"adcolony":{"p":1,"w":2},
-"vungle":{"p":1,"w":1},
+"adcolony":{"p":1,"w":1}
 }
