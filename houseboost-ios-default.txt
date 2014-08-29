@@ -1,6 +1,14 @@
 <HouseBoost>
 	<Limit day="1" week="5"/>
 	<Apps>
+		<App id="soaringbird" scheme="soaringbird1116" weight="2" url="https://itunes.apple.com/app/soaring-bird/id827017651?ls=1&mt=8">
+			<Limit day="1" week="3"/>
+			<Images>
+				<Image w="320" h="480" url="http://www.vincentvictoria.com/wp-content/files/houseboost/soaringbird/Soaring_Bird_e_320_480.jpg" />
+				<Image w="512" h="768" url="http://www.vincentvictoria.com/wp-content/files/houseboost/soaringbird/Soaring_Bird_e_512_768.jpg" />
+				<Image w="640" h="960" url="http://www.vincentvictoria.com/wp-content/files/houseboost/soaringbird/Soaring_Bird_e_640_960.jpg" />
+			</Images>
+		</App>
 		<App id="jewelnext" scheme="jewelnexthdfree" schemeAlternates="jewelnexthd,jewelnext" weight="1" url="https://itunes.apple.com/app/jewel-next-hd-free/id843199255?ls=1&mt=8">
 			<Limit day="1" week="3"/>
 			<Images>
