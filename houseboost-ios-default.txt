@@ -1,5 +1,5 @@
 <HouseBoost>
-	<Limit day="3" week="12"/>
+	<Limit day="0" week="0"/>
 	<Apps>
 		<App id="soaringbird" scheme="soaringbird1116" weight="2" url="https://itunes.apple.com/app/soaring-bird/id827017651?ls=1&mt=8">
 			<Limit day="3" week="12"/>
